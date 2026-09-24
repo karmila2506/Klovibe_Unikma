@@ -1,0 +1,8 @@
+{
+  "name": "KLOVIBE GIFT x UNIKMA Stand Interaktif",
+  "description": "Buku Tamu Digital Booth, Penomoran Urut Cerdas dengan Audio Welcome, Katalog Buket & Usulan Pengunjung KLOVIBE GIFT x Universitas Komputama",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
